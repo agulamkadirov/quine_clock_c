@@ -2,6 +2,8 @@
 
 This project is a unique implementation of a quine (a program that prints its own source code) that also displays a digital clock within the printed source code. The clock is displayed by marking some of the characters with different colors to form the shape of the clock. **Main idea** is to store the source code into `.source_code` section of the generated executable binary(I'm not sure if this is considered as cheating or not :) )
 
+Original idea belongs to: https://aem1k.com/qlock/
+
 https://github.com/agulamkadirov/quine_clock_c/assets/59074816/d96ee101-3744-4709-8543-21dd57bab7e1
 
 ## Project Structure
